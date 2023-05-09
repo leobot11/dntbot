@@ -57,7 +57,6 @@ tgcrypto
 youtube-search-python
 yt-dlp
 covid
-emoji
 fonttools
 gtts
 gingerit
